@@ -1,4 +1,4 @@
-# Raspberry Pi 2 + Debian Jessie + FONA SIM808 GSM module setup
+## Raspberry Pi 2 + Debian Jessie + Adafruit FONA SIM808 GSM+GPS / Itead GSM SIM800 module setup
 ```
 https://learn.adafruit.com/fona-tethering-to-raspberry-pi-or-beaglebone-black/setup
 http://elinux.org/RPi_Serial_Connection
